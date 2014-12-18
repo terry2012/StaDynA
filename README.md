@@ -1,5 +1,4 @@
-#StaDynA: Addressing the Problem of Dynamic Code Updates in the Security
-Analysis of Android Applications
+#StaDynA: Addressing the Problem of Dynamic Code Updates in the Security Analysis of Android Applications
 
 ##Description
 StaDynA is a system supporting security app analysis in the presence of dynamic
