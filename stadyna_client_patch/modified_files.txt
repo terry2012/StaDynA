@@ -1,0 +1,12 @@
+libcore/dalvik/src/main/java/dalvik/system/Seccon.java
+libcore/dalvik/src/main/java/dalvik/system/DexFile.java
+libcore/luni/src/main/java/java/lang/Class.java
+libcore/luni/src/main/java/java/lang/StackTraceElement.java
+libcore/luni/src/main/java/java/lang/reflect/Method.java
+libcore/luni/src/main/java/java/lang/reflect/Constructor.java
+
+
+dalvik/vm/native/dalvik_system_DexFile.cpp
+dalvik/vm/Exception.cpp
+dalvik/vm/InitRefs.cpp
+dalvik/vm/Globals.h
